@@ -1,0 +1,9 @@
+Install Visual studio
+Open the folder examples using Visual studio
+Go to Project -> Delete Cache and Reconfigure
+Go to Tools -> Command Line -> Developer Command Prompt
+
+Run:
+
+vcpkg integrate install
+vcpkg install
